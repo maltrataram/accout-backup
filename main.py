@@ -70,14 +70,12 @@ if __name__ == '__main__':
         app_latest_ver_link = "null"
     
     print(f"""{colours['main_colour']}
- ___               _                 
-(  _ \            ( )                
-| (_) )  _ _   ___| |/ ) _   _ _ _   
-|  _ ( / _  )/ ___)   ( ( ) ( )  _ \ 
-| (_) ) (_| | (___| |\ \| (_) | (_) )
-(____/ \__ _)\____)_) (_)\___/|  __/ 
-                              | |    
-                              (_)    {colours['white']}
+
+     ┓                 ┓    ┓     
+┏┳┓┏┓┃╋┏┓┏┓╋┏┓┏┓┏┓┏┳┓  ┣┓┏┓┏┃┏┓┏┏┓
+┛┗┗┗┻┗┗┛ ┗┻┗┗┻┛ ┗┻┛┗┗  ┗┛┗┻┗┛┗┗┻┣┛
+                                ┛ 
+    {colours['white']}
 > Made with {colours['main_colour']}<3{colours['white']} by {colours['main_colour']}chasa{colours['white']}
 > Github: {colours['main_colour']}https://github.com/itschasa/Discord-Backup{colours['white']}
 > Don't forget to {colours['yellow']}star{colours['white']} it!
